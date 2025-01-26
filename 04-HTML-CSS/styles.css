@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.first {
+  background-color: rosybrown;
+  color: blue;
+}
+
+#your-name {
+  background-color: purple;
+  color: brown;
+  border: 5px solid rgb(50, 2, 46);
+  width: 400px;
+  padding: 25px;
+  margin-top: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#random-img {
+  width: 300px;
+}
+
+#your-name h2 {
+  color: oliveDrab;
+}
